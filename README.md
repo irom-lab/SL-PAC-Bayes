@@ -1,1 +1,7 @@
-Code which trains a stochastic network on MNIST and computes a PAC-Bayes bound on the error rate. 
+### Code which trains a stochastic network on MNIST and computes a PAC-Bayes bound on the error rate. 
+
+Requirements 
+- pytorch
+- torchvision
+- numpy 
+- cvxpy
